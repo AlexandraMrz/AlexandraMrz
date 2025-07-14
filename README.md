@@ -5,14 +5,14 @@ I'm a passionate developer exploring the intersection of **web**, **mobile**, an
 Currently studiying IT, building cool projects and growing into a full-stack engineer who crafts apps that actually matter.
 
 -----------
-** 🚀 What I Do
+**🚀 What I Do**
 - 🖥️ Developing **web** & **mobile** apps that solve real-world problems.
 - 💡Experimenting with **AI** and automation in personal projects
 - 📚 Sharing knowledge and learning something new every day
 
 -----------
 
-** 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 ✨ **Currently working with:**
 - Frontend: `Angular` , `Next.js`
