@@ -2,7 +2,7 @@
 🌱 **Programmer | Student | Lifelong Learner**
 I'm a passionate developer exploring the intersection of **web**, **mobile**, and **AI-powered solutions**.
 
-Currently studiying IT, building cool projects and growing into a full-stack engineer who crafts apps that actually matter.
+Currently studying IT, building cool projects and growing into a full-stack engineer who crafts apps that actually matter.
 
 -----------
 **🚀 What I Do**
